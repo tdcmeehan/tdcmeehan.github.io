@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Timothy D Meehan
+email: tim@timdmeehan.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my home page.  Here you'll find a bit of information about me,
+  some open source projects I'm interested, and resume/credentials.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://timdmeehan.com" # the base hostname & protocol for your site
+twitter_username: tdcmeehan1
+github_username:  tdcmeehan
+
+# Build settings
+markdown: kramdown
