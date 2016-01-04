@@ -3,7 +3,7 @@
 
 ### Senior Fullstack Developer
 
-> [tim@timdmeehan.com](tim@timdmeehan.com)  
+> [tim@timdmeehan.com](mailto:tim@timdmeehan.com)  
 > 480-290-5977
 
 ------
