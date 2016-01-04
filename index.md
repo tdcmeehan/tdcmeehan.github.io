@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Timothy D Meehan
+title: Home
 ---
 
 ![me](images/profile.jpg "Logo Title Text 1") Welcome!
