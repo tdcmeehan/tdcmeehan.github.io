@@ -1,0 +1,16 @@
+language: ruby
+sudo: false
+rvm: 2.2.0
+branches:
+  only:
+  - gh-pages
+before_script:
+- chmod +x ./cibuild.sh
+- chmod +x ./deploy.sh
+script: "./cibuild.sh"
+env:
+  global:
+  - GH_REPO: github.com/tdcmeehan/tdcmeehan.github.io.git
+  - secure: UUTzXFn1A5p/a+uyOnUVx8+kkOqL5citZ/8hWT5vYFLmym23wUkcZcdhGcaNZU63IaIk39WB68gIAf70js4DdSQHVy5sbIk9OuCdkTRLnBN6DMoAXz4IdMxNrEV38zsawRGsLlSewN7VMVRUq/Xswlep2ys/Ssov7yOFgF8//gMU+VvDpmbdyelMZihWZK97PRXygXUQ5xGI+NI8+KFOOrbQKY6bFzD06JoLLRGDvddO/VO39AP243kniZZPRuMLA4MLHe0i1Q9kzrcXuapPmSrpNbPGecVi1AJaks2XUWfvciMDHaSaOvBtdxykRF0NeKTdwaY7jirBq2PVIql3OK1xluQe4+AZEpE+yb8yFGZMtu+EuS7iYPtomwhY4NEkExWC4iwVlrZGXQAPYnqf11Omrw31VS+rwgkjYlgQf1BiTme4QVFpxy/PvEtLyaR0125uStMfarWkone+0aDr+ZGu5FuvnuxGP72asTkiN/zIN6Td5yxs//CwSlqtJ+erR3wrUTNyISpdsRHlfMC5o8a1N72Kx+GjrbYpXIbjhCMh01uWgbVGjDN1cUCX/Ni2HjCwjBi7oNE5wG+2pT6tcF0aJeBfCh18Cjo4IE5brlvOCy/t0+KLKfHrjkejIKxHNGJWR9bbCu8gZmUNFGBabvDddkJUQZcjihyuWgM6RJg=
+after_success:
+- "./deploy.sh"
