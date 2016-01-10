@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
+if [[ $TRAVIS_BRANCH == 'gh-pages' && $TRAVIS_REPO_SLUG == "tdcmeehan/tdcmeehan.github.io" && $TRAVIS_PULL_REQUEST == 'false' ]] ; then
   cd _site
   git init
   
@@ -16,6 +16,6 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.
   git push --force --quiet "https://${GH_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
 else
-  echo 'Invalid branch. You can only deploy from gh-pages.'
-  exit 1
+  echo 'Not in gh-pages, not deploying.'
+  exit 0
 fi
