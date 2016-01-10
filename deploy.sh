@@ -1,10 +1,6 @@
 #!/bin/bash
 
 if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
-  # git config --global user.email "tim@timdmeehan.com"
-  # git config --global user.name "tdcmeehan"
- 
-
   cd _site
   git init
   
