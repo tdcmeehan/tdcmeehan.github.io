@@ -14,7 +14,7 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
 
   # We redirect any output to https://github.com/tdcmeehan/tdcmeehan.github.io.git
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-  git push --force --quiet "https://${GH_TOKEN}@${GH_REPO}" gh-pages:master > /dev/null 2>&1
+  git push --force --quiet "https://${GH_TOKEN}@${GH_REPO}" master > /dev/null 2>&1
 else
   echo 'Invalid branch. You can only deploy from gh-pages.'
   exit 1
