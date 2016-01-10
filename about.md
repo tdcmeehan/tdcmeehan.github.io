@@ -8,4 +8,4 @@ I'm a Software Engineer in New York City.  I graduated from Arizona State in 201
 
 After graduating I moved on to Wall Street and became a Technology Analyst at Goldman Sachs.  I worked on lots of different things at GS, including back office trade automation, regulatory reform auditing work, and front office algorithmic trading technology.
 
-I currently work for Conductor, Inc., helping build out the Searchlight platform.  While at Conductor I've tackled lots of problems around streaming and optimization.  Part of my work is in the process of being [open sourced](https://github.com/Conductor/rx-ordered-data/)--stay tuned!
+I currently work for Conductor, Inc., helping build out the Searchlight platform.  While at Conductor I've tackled lots of problems around streaming and optimization.  Part of my work is in the process of being [open sourced](https://github.com/Conductor/rx-ordered-data/)--stay tuned, more is on the way!
