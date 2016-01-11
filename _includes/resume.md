@@ -39,7 +39,7 @@ I have a diverse background in web infrastructure, real time financial trading a
 
 ------
 
-### Experience {#experience}
+### Experience
 
 #### Conductor, Inc.
  *Senior Software Engineer*
