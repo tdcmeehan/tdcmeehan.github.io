@@ -1,7 +1,7 @@
 
 # Timothy D Meehan
 
-### Senior Full Stack Developer
+### Senior Full Stack Software Engineer
 
 > [tim@timdmeehan.com](mailto:tim@timdmeehan.com)  
 > 480-290-5977
@@ -10,31 +10,30 @@
 
 ### Profile
 
-I have a diverse background in web infrastructure, real time financial trading and execution systems, and avionics.  I love to code and enjoy solving problems, and I constantly look for the most efficient solutions to engineering challenges.
+I have a diverse background in web infrastructure, real time financial trading and execution systems, and avionics.  I love to code and enjoy solving problems, and I constantly look for the most efficient and scalable solutions to engineering challenges.
 
 ------
 
 ### Skills
 
 * Front End Development
-  : Experience with view design, user experience and testing initiatives
-
+  : Experience with view design, user experience and testing initiatives.  Bridging together product, user experience, and engineering to develop the best overall user experiences.
 
 * Middle Tier
-  : Experience optimizing and designing service endpoints
+  : Experience optimizing and designing service endpoints.  
 
 * Infrastructure
-  : Experience with optimizing and scalable design publishing infrastructure
+  : Experience developing holistic, top-to-bottm solutions in infrastructure, creating pipelines and frameworks which enable front end teams to serve data quicker and cheaper.
 
 -------
 
 ### Technical
 
-1. Sass
-1. Javascript
-1. Backbone.js
-1. Rx (Java, JS)
 1. Java
+1. Javascript
+1. Sass
+1. Backbone.js/Marionette.js
+1. Rx (Java, JS)
 1. Performance optimization
 
 ------
@@ -47,13 +46,14 @@ I have a diverse background in web infrastructure, real time financial trading a
 
 Worked as a full stack developer in the applications team, developing solutions for the back end and front end.  Worked in a variety of languages, including Java, Javascript, Python, Ruby, RSpec, Groovy, and Python.
 
+* Introduced and developed a reporting framework and infrastructure which has reduced COGS and increased performance on the most data intensive sections of the site.  Developed a consensus with engineering, product and user experience on its development, which is now considered a strategic direction for the company.  Utilized Map/Reduce, RxJava, Thrift, and Amazon S3/SQS.
 * Improved performance on the product’s most widely used page, applying a variety of optimizations and infrastructural enhancements resulting in 10x performance increase and vastly improved scalability SLAs.  Utilized Amazon S3, RxJava/RxJS, and MySQL.
-* Created a scalable data migrator for legacy data from MySQL to Amazon S3.  Utilized Amazon S3, MySQL, Hadoop, Oozie, and Spring.
-* Created a fast and configurable mass data migration tool to migrate sensitive customer data from legacy components to newly built components.  Utilized NodeJS and MySQL.
+* Created a fast and configurable mass data migration tool to migrate customer data from legacy components to newly built components.  This framework is considered crucial and is used across the company as it migrates to a more scalable infrastructure.  Utilized NodeJS and MySQL.
 * Created a highly performant top to bottom caching infrastructure, utilizing a combination of in-node caches and intelligent HTTP caching to vastly reduce load in our databases and load times.  Utilized Guava, Spring MVC, Backbone and Tomcat.
 * Introduced functional reactive programming as a new method of streaming data to clients and reducing load for data-intensive utilities.  Utilized RxJava and RxJS.
+* Created a scalable data migrator for legacy data from MySQL to Amazon S3.  Utilized Amazon S3, MySQL, Hadoop, Oozie, and Spring.
 * Worked as a team to reimplement performant and scalable single page applications on the front end, including full integration testing of all components with Cucumber, which successfully drove new business for the company.  Utilized Backbone, Marionette, Handlebars, Sass, and RequireJS.
-* Drove adoption of a documentation and reusability process for Sass SCSS, utilizing SassDoc to help communicate core reusable mixins to global developers to encourage more code reuse.
+* Worked with QA to develop scalable solutions to a large technical stack, including code coverage, integration testing and end to end test coverage for infrastructure components.  Trained junior members on best practices, code quality, documentation and testing.
 
 
 #### Goldman Sachs
