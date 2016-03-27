@@ -29,12 +29,9 @@ I have a diverse background in web infrastructure, real time financial trading a
 
 ### Technical
 
-1. Java
-1. Javascript
-1. Sass
-1. Backbone.js/Marionette.js
-1. Rx (Java, JS)
-1. Performance optimization
+* Languages: Java, Javascript (primary), Python, Ruby, Groovy (secondary)
+* Front end technologies: Backbone.js/Marionette.js, Sass
+* Middle/Back end technologies: Tomcat, Spring, Vert.x, RxJava, Node.js, Rx.js, Map/Reduce, Oozie
 
 ------
 
@@ -44,7 +41,7 @@ I have a diverse background in web infrastructure, real time financial trading a
  *Senior Software Engineer*
   __August, 2014 – Present - New York, NY__
 
-Worked as a full stack developer in the applications team, developing solutions for the back end and front end.  Worked in a variety of languages, including Java, Javascript, Python, Ruby, RSpec, Groovy, and Python.
+Worked as a full stack developer in the applications team, developing solutions across the technical stack, training junior members, and setting technical strategy across many teams.  Worked in a variety of languages, including Java, Javascript, Python, Ruby, RSpec, Groovy, and Python.
 
 * Introduced and developed a reporting framework and infrastructure which has reduced COGS and increased performance on the most data intensive sections of the site.  Developed a consensus with engineering, product and user experience on its development, which is now considered a strategic direction for the company.  Utilized Map/Reduce, RxJava, Thrift, and Amazon S3/SQS.
 * Improved performance on the product’s most widely used page, applying a variety of optimizations and infrastructural enhancements resulting in 10x performance increase and vastly improved scalability SLAs.  Utilized Amazon S3, RxJava/RxJS, and MySQL.
