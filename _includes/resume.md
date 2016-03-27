@@ -4,7 +4,8 @@
 ### Senior Full Stack Software Engineer
 
 > [tim@timdmeehan.com](mailto:tim@timdmeehan.com)  
-> 480-290-5977
+> 480-290-5977   
+> [timdmeehan.com](http://timdmeehan.com)
 
 ------
 
@@ -92,4 +93,11 @@ Internship, Honeywell flight management systems.
 * Carried out development of real-time debugging functionality for Boeing 747-8 FMS software.
 * Performed oversight for Boeing 787 FMS, ensured Ada code written correctly implemented requirements and test cases were properly followed.
 
+------
+
+### Education
+  *Arizona State University*
+  BS, Computer Science, May 2010
+  * Graduated Cum Laude
+  
 ------
