@@ -97,7 +97,8 @@ Internship, Honeywell flight management systems.
 
 ### Education
   *Arizona State University*
-  BS, Computer Science, May 2010
+  BS, Computer Science, May 2010			
+  
   * Graduated Cum Laude
   
 ------
