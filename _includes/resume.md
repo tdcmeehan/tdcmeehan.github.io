@@ -24,7 +24,7 @@ I have a diverse background in web infrastructure, real time financial trading a
   : Experience optimizing and designing service endpoints.  
 
 * Infrastructure
-  : Experience developing holistic, top-to-bottm solutions in infrastructure, creating pipelines and frameworks which enable front end teams to serve data quicker and cheaper.
+  : Experience developing holistic, top-to-bottom solutions in infrastructure, creating pipelines and frameworks which enable front end teams to serve data quicker and cheaper.
 
 -------
 
