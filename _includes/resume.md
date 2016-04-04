@@ -63,7 +63,7 @@ Worked in strategies division for electronic trading desk, algorithmically tradi
 * Rewrote market data and exchange reference data into flexible and customizable annotations-driven Java framework, reducing time for onboarding new exchanges.
 * Optimized interest rates algorithms to better adjust to fluctuating market conditions, which increased PnL for the desk.
 * Developed connectivity for trade execution and booking to new exchanges in Java, which gave swaps desk access to new business opportunities.
-* Developed trade reconciliation framework for trading trade algorithms in Java, decreasing risk for the business by more accurately reconciling trades.
+* Developed trade reconciliation framework for high volume order management system in Java, decreasing risk for the business by more accurately reconciling trades.
 * Improved and refactored automated trading algorithm more precisely calculate and manage its risk, increasing market presence and allowing desk to safely offer more to market.
 * Supported all areas of the electronic interest rates trading systems at the firm.
 
@@ -98,7 +98,7 @@ Internship, Honeywell flight management systems.
 ### Education
   *Arizona State University*
   BS, Computer Science, May 2010			
-  
+
   * Graduated Cum Laude
-  
+
 ------
