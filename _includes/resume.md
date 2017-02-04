@@ -4,7 +4,6 @@
 ### Senior Full Stack Software Engineer
 
 > [tim@timdmeehan.com](mailto:tim@timdmeehan.com)  
-> 480-290-5977   
 > [timdmeehan.com](http://timdmeehan.com)
 
 ------
