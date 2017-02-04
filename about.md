@@ -8,4 +8,6 @@ I'm a Software Engineer in New York City.  I graduated from Arizona State in 201
 
 After graduating I moved on to Wall Street and became a Technology Analyst at Goldman Sachs.  While at Goldman I worked in various aspects of Derivatives trading technology, including back office trade automation, regulatory reform auditing work, and front office algorithmic trading technology.
 
-I currently work for Conductor, Inc., helping build out the Searchlight platform.  While at Conductor I've tackled lots of problems around streaming and optimization.  Part of my work is in the process of being [open sourced](https://github.com/Conductor/rx-ordered-data/)--stay tuned, more is on the way!
+I currently work for Conductor, Inc., helping build out the Searchlight platform.  While at Conductor I've tackled lots of problems around streaming and optimization.  Part of my work was [open sourced](https://github.com/tdcmeehan/rx-ordered-data/).
+
+I currently work at Bloomberg LP helping develop their portfolio analytics platform.  *To recruiters, I am not willing to consider new job opportunities at this moment.*
