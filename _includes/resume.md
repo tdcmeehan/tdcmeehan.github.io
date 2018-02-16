@@ -20,7 +20,7 @@ I have a diverse background in web infrastructure, real time financial trading a
   : Experience with view design, user experience and testing initiatives.  Bridging together product, user experience, and engineering to develop the best overall user experiences.
 
 * Middle Tier
-  : Experience optimizing and designing service endpoints.  
+  : Experience optimizing and designing service endpoints, and quickly developing high quality, performant, easy to understand microservices with appropriate abstractions.
 
 * Infrastructure
   : Experience developing holistic, top-to-bottom solutions in infrastructure, creating pipelines and frameworks which enable front end teams to serve data quicker and cheaper.
@@ -37,9 +37,22 @@ I have a diverse background in web infrastructure, real time financial trading a
 
 ### Experience
 
+#### Bloomberg L.P.
+ *Senior Software Engineer*
+  __July, 2016 – Present - New York, NY__
+
+Worked as a scrum master, technical leader and senior contributor.
+
+* Founding member of the Bloomberg Java Guild, setting the direction for Java usage in the company, giving technical talks, and organizing meetups to promote Java and JVM technologies at Bloomberg.
+* Led scrum team to produce major new reporting capabilities on strict contractual deadline.  Project was successful and ahead of schedule.
+* Helped mentor junior employees, promoted code coverage, static analysis and automated delivery to help speed up development time and reduce time to market.  Implemented framework to document and test entire backend infrastructure with Cucumber, allowing team to iterate quicker and improving quality.
+* Developed performant, easy to extend, flexible microservices to assist in various reporting capabilties, from quick, flexible report post-processing, to ETL service which showed a 20x performance increase over previous solutions, to facade service over business intelligence platform that allowed us to migrate quickly to new versions.  Used Java, Spring Framework, Ceph object storage, SQL Server.
+* Developed flexible architecture for arbitrary slicing and dicing of financial data, with fast query speed requirements, unpredictable usage patterns and easy scalability to account for future growth.  Used Spark, Apache Phoenix, HBase, Java.
+
+
 #### Conductor, Inc.
  *Senior Software Engineer*
-  __August, 2014 – Present - New York, NY__
+  __August, 2014 – June, 2016 - New York, NY__
 
 Worked as a full stack developer in the applications team, developing solutions across the technical stack, training junior members, and setting technical strategy across many teams.  Worked in a variety of languages, including Java, Javascript, Python, Ruby, RSpec, Groovy, and Python.
 
@@ -84,7 +97,7 @@ Delivered multiple projects across different areas in Derivatives Operations acr
 
 #### Honeywell Aerospace
   *Engineering & Technology Intern*
-  __May 2009 – June 2010 - Tempe, AZ__
+  __May 2009 – June 2010 - Phoenix, AZ__
 
 Internship, Honeywell flight management systems.
 
