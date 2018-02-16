@@ -10,4 +10,4 @@ After graduating I moved on to Wall Street and became a Technology Analyst at Go
 
 I currently work for Conductor, Inc., helping build out the Searchlight platform.  While at Conductor I've tackled lots of problems around streaming and optimization.  Part of my work was [open sourced](https://github.com/tdcmeehan/rx-ordered-data/).
 
-I currently work at Bloomberg LP helping develop their portfolio analytics platform.  *To recruiters, I am not willing to consider new job opportunities at this moment.*
+I currently work at Bloomberg LP as a Senior Software Engineer, helping design and implement low latency, scalable and performant solutions for financial analytics for a broad client base.
