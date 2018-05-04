@@ -56,7 +56,7 @@ Worked as a scrum master, technical leader and senior contributor.
  *Senior Software Engineer*
   __August, 2014 – June, 2016 - New York, NY__
 
-Worked as a full stack developer in the applications team, developing solutions across the technical stack, training junior members, and setting technical strategy across many teams.  Worked in a variety of languages, including Java, Javascript, Python, Ruby, RSpec, Groovy, and Python.
+Worked as a full stack developer in the applications team, developing solutions across the technical stack, training junior members, and setting technical strategy across many teams.
 
 * Introduced and developed a reporting and data analysis framework and infrastructure which reduced COGS and increased performance on the most data intensive sections of the site.  Developed a consensus with engineering, product and user experience on its development, which was adopted company-wide.  Utilized Map/Reduce, RxJava, Thrift, and Amazon S3/SQS.
 * Improved performance on the product’s most widely used page, applying a variety of optimizations and infrastructural enhancements resulting in 10x performance increase and vastly improved scalability SLAs.  Utilized Amazon S3, RxJava/RxJS, and MySQL.
